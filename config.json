@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevecrypt",
+        "uuid": 3620520,
+        "checksum": "7pd64"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
